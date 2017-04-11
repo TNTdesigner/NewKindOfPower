@@ -41,13 +41,14 @@ li{
 }
 li a{
     display: block;
-    text-decoration: none;
-    color: white;
-    font-family: arial;
     padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+    color: black;
+    font-family: arial;
 }
 li a:hover{
-    background-color: rgba(177, 241, 177, 0.2);
+    background-color: rgba(177, 241, 177, 0.3);
 }
 /*Centreren de link van de navigatiebalk*/
 .center{
@@ -57,7 +58,10 @@ li a:hover{
 /*dit zorgt ervoor dat ook de titel die in de navigatiebalk staat uitgelijnd staat met de rest van de navigatiebalk*/
 h1{
     margin: 0 10px 0 10px;
-    color: white;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    font-family: arial;
+    text-decoration: none;
 }
 
 /*eind van de navigatiebalk*/
