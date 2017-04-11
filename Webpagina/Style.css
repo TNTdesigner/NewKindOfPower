@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    background: #e7e5e5;
+    width: 300wh;
+}
+.magenta{
+    color: #a52b9d;
+}
+.powderblue{
+    color: #00a491;
+}
+.black{
+    color: #2d2d2d;
+}
+.orange{
+    color: #ff7b00;
+}
+.Logo{
+    width: 55px;
+    height: 67px;
+    padding: 25px 10px 0 10px;
+}
+
+/*begin navigatiebalk*/
+#navigatiebalk{
+    position: fixed;
+    z-index: +1;
+    top: 0px;
+    width: 100%;
+    background-image: url("https://media.giphy.com/media/L00auhhVx68CI/giphy.gif")/*url("http://images4.fanpop.com/image/photos/19600000/Minecraft-minecraft-19670270-1600-1000.png")*/;
+    background-position: center;
+    padding: 0px;
+    box-shadow: 0 0 20px 0;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: right;
+    text-align: center;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    padding: 10px;
+}
+li a:hover{
+    background-color: rgba(177, 241, 177, 0.2);
+}
+/*Centreren de link van de navigatiebalk*/
+.center{
+    padding: 40px 0;
+}
+
+/*dit zorgt ervoor dat ook de titel die in de navigatiebalk staat uitgelijnd staat met de rest van de navigatiebalk*/
+h1{
+    margin: 0 10px 0 10px;
+    color: white;
+}
+
+/*eind van de navigatiebalk*/
+
+
+/*layout van de tekst*/
+
+.row{
+    position: absolute;
+    margin: 150px 22% 0 5%;
+    background-color: #cecece;
+    padding: 20px;
+}
+.tekst{
+    font-family: arial;
+}
+.afbeelding{
+    float: right;
+    padding: 10px 0 0 10px;
+}
+
+}
+#RecentDownload{
+    position: absolute;
+    background-color: #cecece;
+    padding: 20px;
+    margin: 150px 3% 0 82%;
+    font-family: arial;
+}
+.material-icons{
+    color: black;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 250px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+@screen and (width:

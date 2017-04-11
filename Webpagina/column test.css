@@ -1,0 +1,22 @@
+body{
+    margin: -1.5% 0px;
+    width: 100wh;
+    height: 100vh;
+}
+#navbar{
+    position: fixed;
+    margin: 0px;
+    padding: 40px;
+    width: 100%;
+    background-color: grey;
+}
+.row2{
+    margin: 20px 20% 0 5%;
+    padding: 20%;
+    background-color:  lightgreen;
+}
+.row4{
+    margin: 20px 0 0 0;
+    padding: 40px;
+    background-color: powderblue;
+}
