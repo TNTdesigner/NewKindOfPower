@@ -21,17 +21,17 @@
       <file leaf-file-name="GalleryTestStyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GalleryTestStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
+            <state relative-caret-position="1232">
               <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalleryTest.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GalleryTest.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GalleryTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
+            <state relative-caret-position="1523">
               <caret line="97" column="187" lean-forward="false" selection-start-line="97" selection-start-column="187" selection-end-line="97" selection-end-column="187" />
               <folding />
             </state>
@@ -60,10 +60,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Downloads.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Downloads.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="68" lean-forward="false" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Kenmerken.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kenmerken.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
+            <state relative-caret-position="1073">
               <caret line="69" column="92" lean-forward="false" selection-start-line="69" selection-start-column="92" selection-end-line="69" selection-end-column="92" />
               <folding />
             </state>
@@ -95,11 +105,11 @@
         <option value="$PROJECT_DIR$/HoofdPagina.html" />
         <option value="$PROJECT_DIR$/Nieuws.html" />
         <option value="$PROJECT_DIR$/Style.css" />
-        <option value="$PROJECT_DIR$/Downloads.html" />
         <option value="$PROJECT_DIR$/GalleryTestStyle.css.html" />
         <option value="$PROJECT_DIR$/Kenmerken.html" />
         <option value="$PROJECT_DIR$/GalleryTestStyle.css" />
         <option value="$PROJECT_DIR$/GalleryTest.html" />
+        <option value="$PROJECT_DIR$/Downloads.html" />
       </list>
     </option>
   </component>
@@ -793,14 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Downloads.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OverDeMakers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="592">
@@ -841,6 +843,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GalleryTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1523">
+          <caret line="97" column="187" lean-forward="false" selection-start-line="97" selection-start-column="187" selection-end-line="97" selection-end-column="187" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
@@ -861,7 +871,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kenmerken.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
+        <state relative-caret-position="1073">
           <caret line="69" column="92" lean-forward="false" selection-start-line="69" selection-start-column="92" selection-end-line="69" selection-end-column="92" />
           <folding />
         </state>
@@ -869,16 +879,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GalleryTestStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
+        <state relative-caret-position="1232">
           <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GalleryTest.html">
+    <entry file="file://$PROJECT_DIR$/Downloads.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="97" column="187" lean-forward="false" selection-start-line="97" selection-start-column="187" selection-end-line="97" selection-end-column="187" />
+        <state relative-caret-position="272">
+          <caret line="17" column="68" lean-forward="false" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
           <folding />
         </state>
       </provider>
