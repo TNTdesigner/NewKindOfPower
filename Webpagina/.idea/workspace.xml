@@ -21,18 +21,18 @@
       <file leaf-file-name="GalleryTestStyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GalleryTestStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <state relative-caret-position="522">
+              <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalleryTest.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GalleryTest.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GalleryTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="32" column="105" lean-forward="false" selection-start-line="32" selection-start-column="105" selection-end-line="32" selection-end-column="105" />
+            <state relative-caret-position="515">
+              <caret line="97" column="187" lean-forward="false" selection-start-line="97" selection-start-column="187" selection-end-line="97" selection-end-column="187" />
               <folding />
             </state>
           </provider>
@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kenmerken.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Kenmerken.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kenmerken.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="737">
@@ -97,9 +97,9 @@
         <option value="$PROJECT_DIR$/Style.css" />
         <option value="$PROJECT_DIR$/Downloads.html" />
         <option value="$PROJECT_DIR$/GalleryTestStyle.css.html" />
+        <option value="$PROJECT_DIR$/Kenmerken.html" />
         <option value="$PROJECT_DIR$/GalleryTestStyle.css" />
         <option value="$PROJECT_DIR$/GalleryTest.html" />
-        <option value="$PROJECT_DIR$/Kenmerken.html" />
       </list>
     </option>
   </component>
@@ -389,7 +389,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -859,26 +859,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Kenmerken.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="69" column="92" lean-forward="false" selection-start-line="69" selection-start-column="92" selection-end-line="69" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GalleryTestStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+        <state relative-caret-position="522">
+          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GalleryTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="32" column="105" lean-forward="false" selection-start-line="32" selection-start-column="105" selection-end-line="32" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kenmerken.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="69" column="92" lean-forward="false" selection-start-line="69" selection-start-column="92" selection-end-line="69" selection-end-column="92" />
+        <state relative-caret-position="515">
+          <caret line="97" column="187" lean-forward="false" selection-start-line="97" selection-start-column="187" selection-end-line="97" selection-end-column="187" />
           <folding />
         </state>
       </provider>
