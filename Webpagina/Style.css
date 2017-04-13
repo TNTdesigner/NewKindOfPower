@@ -67,7 +67,7 @@ body{
 .tekst{
     font-family: arial;
 }
-.afbeelding{
+div.afbeelding{
     float: right;
     padding: 10px 0 0 10px;
 }
@@ -79,13 +79,12 @@ body{
     padding: 20px;
     top: 150px;
     right: 5%;
-    font-family: arial;
 }
 .material-icons{
     color: black;
 }
     /*gallery*/
-    h3{
+    .h3{
         clear: both;
         float: left;
     }
@@ -104,8 +103,8 @@ body{
         border: 1px solid black;
     }
     div.galleryItem img{
-        width: 250px;
-        height: 220px;
+        width: 128px;
+        height: 128px;
     }
     /*einde gallery*/
 
@@ -113,8 +112,9 @@ body{
         .AboutUs{
             position: absolute;
             display: block;
+            min-width: 30%;
             top: 150px;
-            left: 45%;
+            left: 30%;
             background-color: #cecece;
             padding: 20px;
         }
@@ -135,11 +135,14 @@ body{
     /*einde About US*/
 
 /*Responsive*/
-@screen and (width:1500px){
+@media screen and (max-width:1500px){
 
 }
 
 @media screen and (max-width: 820px){
     .align{float: left; padding: 5px 0;}
-    li a{padding: 10px; width: 500px;}
+    li a{padding: 10px; width: 50%;}
+    li {width: 50%;}
+    .row{top: 280px;}
+    img.afbeelding{float: none; width: 200px; heigth: 200px;}
 }
