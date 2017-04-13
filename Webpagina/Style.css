@@ -84,26 +84,31 @@ body{
 .material-icons{
     color: black;
 }
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: right;
-    width: 250px;
-}
+    /*gallery*/
+    h3{
+        clear: both;
+        float: left;
+    }
+    div.gallery{
+        float: center;
+        clear: both;
+    }
+    div.galleryItem{
+        float: left;
+        margin: 2px;
+        padding: 5px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+    div.galleryItem:hover{
+        border: 1px solid black;
+    }
+    div.galleryItem img{
+        width: 250px;
+        height: 220px;
+    }
+    /*einde gallery*/
 
-div.gallery:hover {
-    border: 1px solid #777;
-}
-
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
     /*About Us*/
         .AboutUs{
             position: absolute;
