@@ -72,7 +72,7 @@ div.afbeelding{
     padding: 10px 0 0 10px;
 }
 
-#RecentDownload{
+#Subrow{
     position: absolute;
     display: block;
     background-color: #cecece;
@@ -82,6 +82,19 @@ div.afbeelding{
 }
 .material-icons{
     color: black;
+}
+.button{
+    width: 48%;
+    height: 50px;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    background-color: #87c341;
+    border: none;
+}
+button:hover{
+    background-color: #5da50a;
 }
     /*gallery*/
     .h3{

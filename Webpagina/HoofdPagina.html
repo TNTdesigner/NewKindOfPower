@@ -5,8 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <title>NewKindOfPower</title>
-    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="Style.css" id="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script src="StyleChange.js"></script>
 </head>
 
 <!-- body -->
@@ -40,8 +41,12 @@
 </div>
 
 <div>
-    <div id="RecentDownload" class="tekst">
+    <div id="Subrow" class="tekst">
         <div>Most recent release </div> <a href=""><i class="material-icons">file_download</i></a>
+        <div>
+            <button onclick="StyleChange1()" id="style1" class="button">Style 1</button>
+            <button onclick="StyleChange2()" id="style2" class="button">Style 2</button>
+        </div>
     </div>
 </div>
 
