@@ -1,0 +1,181 @@
+body{
+    margin: 0px;
+    background: #e7e5e5;
+}
+.Logo{
+    width: 55px;
+    height: 67px;
+    padding: 25px 10px 0 10px;
+}
+
+    /*begin navigatiebalk*/
+        #navigatiebalk{
+            position: fixed;
+            z-index: +1;
+            top: 0px;
+            left: 5%;
+            width: 90%;
+            background-color: #cecece;
+
+        }
+        ul{
+            list-style-type: none;
+            margin: 0 20% 0 20%;
+        }
+        li{
+            float: left;
+            text-align: center;
+        }
+        li a{
+            display: block;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.5);
+            text-decoration: none;
+            color: black;
+            font-family: arial;
+            border-bottom: 2px solid black;
+            border-top: 2px solid black;
+        }
+        li a:hover{
+            background-color: rgba(177, 241, 177, 0.3);
+        }
+        /*Centreren de link van de navigatiebalk*/
+        .align{
+            padding: 40px 0;
+        }
+
+        /*dit zorgt ervoor dat ook de titel die in de navigatiebalk staat uitgelijnd staat met de rest van de navigatiebalk*/
+        h1{
+            background-color: rgba(255, 255, 255, 0.5);
+            color: black;
+            font-family: arial;
+            font-size: 33px;
+            text-decoration: none;
+            border-bottom: 2px solid black;
+            border-top: 2px solid black;
+        }
+    /*eind van de navigatiebalk*/
+
+
+/*layout van de tekst*/
+
+.row{
+    position: absolute;
+    display: block;
+    top: 150px;
+    left: 5%;
+    right: 20%;
+    background-color: #cecece;
+    padding: 20px;
+}
+.tekst{
+    font-family: arial;
+}
+div.afbeelding{
+    float: right;
+    padding: 10px 0 0 10px;
+}
+
+#Subrow{
+    position: absolute;
+    display: block;
+    background-color: #cecece;
+    padding: 20px;
+    top: 150px;
+    right: 5%;
+}
+.material-icons{
+    color: black;
+}
+.button{
+    width: 48%;
+    height: 50px;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    background-color: #87c341;
+    border: none;
+}
+button:hover{
+    background-color: #5da50a;
+}
+    /*gallery*/
+    .h3{
+        clear: both;
+        float: left;
+    }
+    div.gallery{
+        float: center;
+        clear: both;
+    }
+    div.galleryItem{
+        float: left;
+        margin: 2px;
+        padding: 5px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+    div.galleryItem:hover{
+        border: 1px solid black;
+    }
+    div.galleryItem img{
+        width: 128px;
+        height: 128px;
+    }
+    /*einde gallery*/
+
+    /*About Us*/
+        .AboutUs{
+            position: absolute;
+            display: block;
+            min-width: 30%;
+            top: 150px;
+            left: 30%;
+            background-color: #cecece;
+            padding: 20px;
+        }
+        .center{
+            text-align: center;
+        }
+        .lineheight{
+            line-height: 2;
+        }
+        .left{
+            float: left;
+            display: inline;
+        }
+        .right{
+            float: right;
+            display: inline;
+        }
+    /*einde About US*/
+
+/*Responsive*/
+@media screen and (max-width:1505px){
+    ul{margin: 0 15% 0 15%;}
+}
+
+@media screen and (max-width:1300px){
+    ul{margin: 0 10% 0 10%;}
+}
+
+@media screen and (max-width:1225px){
+    img.afbeelding{float: none; width: 400px; heigth: 400px;}
+}
+
+@media screen and (max-width:1225px){
+    ul{margin: 0 5% 0 5%;}
+}
+
+@media screen and (max-width:1000px){
+    ul{margin: 0;}
+}
+
+@media screen and (max-width: 950px){
+    .align{padding: 5px 0;}
+    li a{padding: 10px; width: 75%;}
+    li {width: 40%;}
+    .row{top: 280px;}
+    img.afbeelding{float: none; width: 200px; heigth: 200px;}
+}
